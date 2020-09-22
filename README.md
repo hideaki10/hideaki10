@@ -1,8 +1,7 @@
-```
-https://github-readme-stats.vercel.app/api?hideaki10=anuraghazra&show_icons=true&theme=dracula
-```
 
-```
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hideaki10a&show_icons=true&theme=dracula)
-```
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hideaki10)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hideaki10&show_icons=true&theme=dracula)
