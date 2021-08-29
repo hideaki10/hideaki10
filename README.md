@@ -1,6 +1,5 @@
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hideaki10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
@@ -11,4 +10,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hideaki10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
+![我的 LeetCode 数据](https://stats.justsong.cn/api/leetcode/?username=hideaki10)
 
