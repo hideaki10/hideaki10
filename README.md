@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=hideaki10&label=PROFILE+VIEWS&color=orange)
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hideaki10&count_private=true&show_icons=true" />
 </a>
