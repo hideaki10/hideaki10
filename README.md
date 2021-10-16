@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hideaki10&show_icons=true&locale=en" alt="hideaki10" /></p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hideaki10&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hideaki10&layout=compact" />
 </a>
 
 
