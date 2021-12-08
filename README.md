@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hideaki10&label=PROFILE+VIEWS&color=orange" alt="hideaki10" /> </p>
-<h1 align="left">Hi 👋, I'm Qian</h1>
+<h1 align="left">Hello 👋, I'm Qian</h1>
 
 
 - 🔭 I’m currently working on [MicroWorld](https://microworld.co.jp/)
