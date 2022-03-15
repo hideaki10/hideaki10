@@ -16,7 +16,7 @@
 
 
 
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hideaki10&theme=tokyonight&langs_count=8&layout=compact&hide=javascript,html)](https://github.com/supleiades/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hideaki10&theme=tokyonight&langs_count=8&layout=compact&hide=javascript,html,css)](https://github.com/supleiades/)
 
 
 [![supleiades's github stats](https://github-readme-stats.vercel.app/api?username=hideaki10&hide=contribs&count_private=true&show_icons=true&theme=tokyonight&locale=en)](https://github.com/supleiades/)
