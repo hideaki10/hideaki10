@@ -22,7 +22,7 @@
 [![supleiades's github stats](https://github-readme-stats.vercel.app/api?username=hideaki10&count_private=true&show_icons=true&theme=tokyonight&locale=en)](https://github.com/supleiades/)
 
 <!-- リポジトリステータス -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hideaki10&layout=compact" />
-
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hideaki10&layout=compact" /> -->
+[![hideaki10's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hideaki10)]
 
 
