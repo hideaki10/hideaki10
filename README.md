@@ -23,6 +23,5 @@
 
 <!-- リポジトリステータス -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hideaki10&layout=compact" /> -->
-[![hideaki10's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hideaki10)]
-
+[![hideaki10's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hideaki10)](https://github.com/anuraghazra/github-readme-stats)
 
